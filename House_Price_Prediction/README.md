@@ -1,1 +1,1 @@
-Price prediction model
+Price detection
